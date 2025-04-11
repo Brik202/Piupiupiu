@@ -107,3 +107,11 @@
     
   - Возможность масштабирования сайта (добавление новых услуг в будущем).
   - Реализация реферальной программы для привлечения новых пользователей.
+
+## UML диаграмма
+![UML](https://github.com/user-attachments/assets/68d9c4f0-9281-4222-aa01-ec05368f6570)
+
+## USE CASE
+![use case norm](https://github.com/user-attachments/assets/ef499722-88c3-4f27-934e-703ab35807f7)
+
+
